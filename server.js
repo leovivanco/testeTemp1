@@ -63,7 +63,7 @@ app.get('/', (req, res) => {
   })
 
 app.get('/circles', (req, res) => {
-    res.send(circles)
+	res.send(circles);
 })
 
 app.listen(3001, () => {

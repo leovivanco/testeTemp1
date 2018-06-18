@@ -5,4 +5,6 @@ To install and start the API server, run the following commands in this director
 * `npm install`
 * `node server`
 
-Open localhost:3001 to get more informations
+Open localhost:3001/teste.html
+
+
